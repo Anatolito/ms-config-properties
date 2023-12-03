@@ -1,0 +1,4 @@
+spring:
+  data:
+    mysql: 
+      uri: mysql://localhost:27017/gallerydb111
